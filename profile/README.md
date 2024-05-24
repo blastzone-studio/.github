@@ -1,5 +1,6 @@
-![blastzone.studio logo](https://github.com/blastzone-studio/.github/blob/main/profile/text.svg)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/blastzone-studio/.github/blob/main/profile/text.png"/>
+</p>
 
 > ## Who are we ?
 
@@ -7,17 +8,5 @@ A small game development studio based in Belgium.
 We are currently working in the S&Box universe 👩‍💻
 
 
-
-<!--
-
-[Website](https://blastzone.studio/)
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> [!NOTE]
+> We are still in a heavy development so if you encounter any error or issue within our API's don't hesitate to open a issue.
