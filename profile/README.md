@@ -1,4 +1,6 @@
-## Hi there 👋
+## Who are we ?
+
+A small game development studio based in Belgium.
 
 <!--
 
