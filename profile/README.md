@@ -1,4 +1,4 @@
-![blastzone.studio logo](./text.svg)
+![blastzone.studio logo](https://github.com/blastzone-studio/.github/blob/main/profile/text.svg)
 
 
 > ## Who are we ?
