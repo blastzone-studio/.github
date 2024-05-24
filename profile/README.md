@@ -1,8 +1,12 @@
+![blastzone.studio logo](./text.svg)
+
 
 > ## Who are we ?
 
 A small game development studio based in Belgium.
 We are currently working in the S&Box universe 👩‍💻
+
+
 
 <!--
 
